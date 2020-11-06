@@ -10,7 +10,6 @@
     <br><i>Note; upon activation of the virtual environment, the command line will be updated to reflect this (venv).</i>
 
 2. Launch the application using the command: <code>python app.py</code>.
-    <br><i>Note; no need to have python installed as it is all contained in the env, making this project portable.</i>
 
 3. Finally, we can access the application by opening our preferred browser to the localhost: <a href="http://localhost:5000/">http://localhost:5000/</a> 
 
